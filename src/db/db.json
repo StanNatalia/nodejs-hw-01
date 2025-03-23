@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "6b907f7b-6bb6-492b-ba66-514e612d752e",
+    "name": "Brandi Goodwin",
+    "phone": "1-244-565-7262 x047",
+    "email": "Benjamin_Reichert@yahoo.com",
+    "job": "Regional Division Agent"
+  },
+  {
+    "id": "f0b05117-e9a2-4288-9324-9f7c0f962189",
+    "name": "Henrietta McClure I",
+    "phone": "348.293.4138 x7643",
+    "email": "Juliet_Fisher@gmail.com",
+    "job": "Forward Paradigm Architect"
+  },
+  {
+    "id": "ecae18ca-a18a-49f8-bda6-51ff0f8cb327",
+    "name": "Molly Russel",
+    "phone": "927-238-3018 x13058",
+    "email": "Katarina29@hotmail.com",
+    "job": "Internal Operations Supervisor"
+  },
+  {
+    "id": "22ab3522-959a-4f37-a3f8-78f1fd1b95c2",
+    "name": "Clay Dicki",
+    "phone": "(398) 256-8193 x6910",
+    "email": "Adriana_Jast@yahoo.com",
+    "job": "Direct Accounts Executive"
+  },
+  {
+    "id": "b48c66ac-e695-4218-bb9d-f493d39ca650",
+    "name": "Orlando Schmeler",
+    "phone": "831-771-6972 x9172",
+    "email": "Kamryn_Kohler@hotmail.com",
+    "job": "Internal Mobility Associate"
+  }
+]
